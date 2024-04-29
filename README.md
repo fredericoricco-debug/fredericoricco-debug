@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fredericoricco-debug
 - 👀 I’m interested in programming and music.
-- 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on nothing in particular, just lmk.
+- 🌱 I’m currently undertaking a masters in computer science and building data gathering tools for the learning for well-being institute.
+- 💞️ I’m looking to collaborate on anything, as long as I have time.
 - 📫 How to reach me: fredericorichardson@gmail.com 
